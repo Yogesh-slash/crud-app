@@ -2,7 +2,7 @@
 
 This is a basic CRUD (Create, Read, Update, Delete)
 
-*Key Features:*
+*Key Features:
 
 * Allows users to create new resources (e.g., notes, tasks).
 * Enables users to view existing resources.
@@ -11,7 +11,7 @@ This is a basic CRUD (Create, Read, Update, Delete)
 * Includes basic frontend validation.
 * Implements basic API integration.
 
-*Tech Stack:*
+*Tech Stack:
 
 * *Backend:* [Specify your backend technology, e.g., Python, Flask]
 * *Frontend:* [Specify your frontend technologies, e.g., HTML, CSS, JavaScript]
